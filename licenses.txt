@@ -1,0 +1,19 @@
+Item name: image/sound filename you have renamed it to, or method/function/class where the code is found.
+o License type: (Public Domain / CC-BY / CC0 / GPL / MIT / Apache / BSD)
+o Author / Attribution: (name of author)
+o Source Website: (original website of the content, as per the author’s wishes)
+Sound
+    - correctAnswer.mp3/ Standard License/ Finnolia Productions Inc/ https://www.soundeffectsplus.com/product/correct-answer-double-01/
+    - wrongAnswer.mp3/ Standard License/ Finnolia Productions Inc/ https://www.soundeffectsplus.com/product/wrong-answer-buzzer-05/
+    - congraduationSound.mp3/ Standard License/ Finnolia Productions Inc/ https://www.soundeffectsplus.com/https://www.soundeffectsplus.com/product/correct-answer-bell-gliss-01/
+    - backgroudMusic1.mp3/CC-BY/http://dig.ccmixter.org/files/snowflake/59564
+    - backgroudMusic2.mp3/CC-BY/http://dig.ccmixter.org/files/snowflake/58681
+    - backgorundMisic3.mp3/CC-BY/http://dig.ccmixter.org/files/hansatom/54914
+Image
+    - homeLogo.jpg / Pexels/Bogdan Dirică/ https://www.pexels.com/photo/photo-of-person-holding-crystal-ball-1645668/
+    - apple.jpg / Pexels/mali maeder/ https://www.pexels.com/photo/healthy-apple-fruits-natural-102104/
+    - cut-apple.jpg/Pexels/John Finkelstein/ https://www.pexels.com/photo/red-apple-1630588/
+    - many-apple.jpg/Pexels/Pixabay/ https://www.pexels.com/photo/red-apple-fruits-162806/
+    - apple-bright.jpg/Pexels/Bruno Scramgnon/https://www.pexels.com/photo/apple-blur-bright-close-up-588587/
+    - apple-food-fresh.jpg/Pexels/Skitterphoto/https://www.pexels.com/photo/wet-green-apple-38068/
+    - apple-hand.jpg/Pexels/Aleksandar Cvetanović/https://www.pexels.com/photo/close-up-photo-of-person-holding-red-apple-1451649/
